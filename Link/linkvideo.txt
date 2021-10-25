@@ -1,0 +1,22 @@
+//Link export data from mysql into csv
+https://www.youtube.com/watch?v=1qKaHSpHdJE
+//Link FE and BE
+https://www.youtube.com/watch?v=GL48t3lY-tI&list=PLRheCL1cXHrtT6rOSlab8VzMKBlfL-IEA&index=1
+//AI
+https://medium.com/@pierre_guillou/building-ai-projects-week-2-719ea4c4dbcb
+https://www.datacamp.com/community/tutorials/recommender-systems-python
+https://phamdinhkhanh.github.io/2019/11/04/Recommendation_Compound_Part1.html
+https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
+https://towardsdatascience.com/a-content-based-recommender-for-e-commerce-web-store-7554b5b73eac
+https://www.analyticsvidhya.com/blog/2020/11/create-your-own-movie-movie-recommendation-system/
+https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-2-deep-recommendation-sequence-prediction-automl-f134bc79d66b
+https://research.aimultiple.com/recommendation-system/
+//Full code e-commerce tutorial
+https://www.youtube.com/watch?v=GL48t3lY-tI&list=PLRheCL1cXHrtT6rOSlab8VzMKBlfL-IEA&index=3
+https://medium.com/bigcommerce-developer-blog/building-a-bigcommerce-app-using-laravel-and-react-711ceceb5006
+//Filter product
+https://appdividend.com/2018/05/03/how-to-create-filters-in-laravel/
+//about us page
+https://www.youtube.com/watch?v=kHEhhV3EyPU
+//portpolio
+https://www.youtube.com/watch?v=3t2H8aqOkeQ
